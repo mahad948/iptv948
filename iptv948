@@ -4,36 +4,6 @@ https://list.iptvcat.com/my_list/s/774b24f9cc2bac6bcfda87a91f72ed88.m3u8
 #EXTINF :-1,B
 https://list.iptvcat.com/my_list/s/5bc5d144bd684f74600b5a9912add66f.m3u8
 #EXTINF :-1,C
-https://list.iptvcat.com/my_list/s/568a6a6243fa2773d38f7049b9c2388e.m3u8
-#EXTINF :-1,D
-https://list.iptvcat.com/my_list/s/91005a90550728fdbf0fdbe4914c4fa2.m3u8
-#EXTINF :-1,E
-https://list.iptvcat.com/my_list/s/1db9057d3e68bedc08513f92d9f045e0.m3u8
-#EXTINF :-1,F
-https://list.iptvcat.com/my_list/s/d85a4c5eb0b2b3dcdc286bb0a5e9b510.m3u8
-#EXTINF :-1,G
-https://list.iptvcat.com/my_list/s/6832e8b022f8c83bfb0098b7e495a718.m3u8
-#EXTINF :-1,H
-https://list.iptvcat.com/my_list/s/15ed442653fe208b5f371118aecb6a77.m3u8
-#EXTINF :-1,I
-https://list.iptvcat.com/my_list/s/202e2c70a0f9315f231b002d801b6409.m3u8
-#EXTINF :-1,J
-https://list.iptvcat.com/my_list/s/1b6ef021a3ed73ec8cf465ffa7f092d8.m3u8
-#EXTINF :-1,K
-https://list.iptvcat.com/my_list/s/5fd9cef3c28ade333d48a84d9e9bbfdf.m3u8
-#EXTINF :-1,L
-https://list.iptvcat.com/my_list/s/b71da1b3d2422a787f0d31270ca10cb9.m3u8
-#EXTINF :-1,M
-https://list.iptvcat.com/my_list/s/2e854cb3fd88ae808e64cff54a2dd761.m3u8
-#EXTINF :-1,N
-https://list.iptvcat.com/my_list/s/9f3431e5d03638eff268178b1f5bd334.m3u8
-#EXTINF :-1,O
-https://list.iptvcat.com/my_list/s/7d0fdbea6dc6c5a72e45b8756a95b713.m3u8
-#EXTINF :-1,P
-https://list.iptvcat.com/my_list/s/2ff4c8d39f836257529ccc968c4f3f76.m3u8
-#EXTINF :-1,Q
-https://list.iptvcat.com/my_list/s/6d7f8a270e96db8e8cdea76f4291e1d7.m3u8
-#EXTINF :-1,R
 https://list.iptvcat.com/my_list/s/1aa1e8b3268033854ed916c051e63d99.m3u8
 #EXTINF :-1,I
 https://list.iptvcat.com/my_list/s/c9312c5eda3bcf5b2bfe3cd82a7ec70d.m3u8
@@ -43,3 +13,29 @@ https://list.iptvcat.com/my_list/s/7a63039fbf425a9af68b22879a042572.m3u8
 https://list.iptvcat.com/my_list/s/e037a0c935346fa0df96025ea5de4e7e.m3u8
 #EXTINF :-1,L
 https://list.iptvcat.com/my_list/s/ca1f7e0ef77a9b0e5c0eb31e976d3791.m3u8
+MBC1
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
+MBC2
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+MBC3
+https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+MBC4
+https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+MBC5
+https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
+MBC Action
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+MBC bollywood
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
+MBC Drama
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
+MBC Drama+
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
+MBC Max
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+MBC Iraq
+https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
+MBC Masr 1
+https://shls-masr-prod.shahid.net/masr-prod.m3u8
+MBC Masr 2
+https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
