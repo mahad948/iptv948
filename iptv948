@@ -1,18 +1,3 @@
-#EXTM3U
-#EXTINF :-1,A 
-https://list.iptvcat.com/my_list/s/774b24f9cc2bac6bcfda87a91f72ed88.m3u8
-#EXTINF :-1,B
-https://list.iptvcat.com/my_list/s/5bc5d144bd684f74600b5a9912add66f.m3u8
-#EXTINF :-1,C
-https://list.iptvcat.com/my_list/s/1aa1e8b3268033854ed916c051e63d99.m3u8
-#EXTINF :-1,I
-https://list.iptvcat.com/my_list/s/c9312c5eda3bcf5b2bfe3cd82a7ec70d.m3u8
-#EXTINF :-1,J
-https://list.iptvcat.com/my_list/s/7a63039fbf425a9af68b22879a042572.m3u8
-#EXTINF :-1,K
-https://list.iptvcat.com/my_list/s/e037a0c935346fa0df96025ea5de4e7e.m3u8
-#EXTINF :-1,L
-https://list.iptvcat.com/my_list/s/ca1f7e0ef77a9b0e5c0eb31e976d3791.m3u8
 MBC1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
 MBC2
